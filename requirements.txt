@@ -3,3 +3,4 @@ requests
 streamlit
 langchain
 openai
+langchain_community
