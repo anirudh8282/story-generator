@@ -1,0 +1,5 @@
+transformers
+requests
+streamlit
+langchain
+openai
